@@ -5,6 +5,8 @@ Almalinux9 is a linux distro that is the direct successor of **Red Hat Enterpris
 ## What is Docker ?
 Docker is an open-source platform that enables developers to build, package, and run applications in lightweight, portable containers. These containers include everything needed to run an application—code, runtime, libraries, and dependencies—ensuring consistency across different environments. Docker simplifies software deployment, improves scalability, and allows applications to run reliably on any system, whether it's a developer’s laptop, a test server, or a cloud platform.
 ## Install Docker
-Navigate to the docker.com website
+First navigate to the **docker.com** website. On the homepage click on the *Download Docker* button and select *Download for Windows-AMD64*
+
+![](https://github.com/DanieleDemeneghi/scientific_computing_phd_physics/blob/main/scps_1.png)
 
 
