@@ -30,7 +30,7 @@ Open the Docker Desktop application and select the Terminal
    
 4. To start the container insert the command
 
-   `start -i my_container_name `.
+   `docker start -i my_container_name `.
 
 ## Conclusion
 You can now access the almalinux9 environment from a Windows 11 OS  
